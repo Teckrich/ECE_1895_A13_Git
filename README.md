@@ -3,3 +3,4 @@ Repository for Group Sigma -  Assignment #13
 
 TE - Branch
 Adam Nichols
+Michael Mejalli
